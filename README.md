@@ -30,4 +30,4 @@
 
 🚀 Доступно по ссылке:
 
-🔗 https://ruslansalyukov.github.io/portfolio/
+🔗 https://ruslansalyukov.github.io/portfolio
